@@ -1,5 +1,5 @@
 import React from "react";
-import { Questions } from "../Data";
+import { Questions } from "../../Data";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import Register from "../Register/Register";
 import "./Question.css";
